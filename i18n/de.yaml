@@ -62,7 +62,7 @@
 
 # copyright
 - id: author
-  translation: Autor
+  translation: " Autor"
 
 - id: lastMod
   translation: Bearbeitet
@@ -87,11 +87,14 @@
 - id: morePost
   translation: "Weiterlesen >>>"
 
+- id: read_en
+  translation: "Read in English"
+
 - id: read_ru
   translation: Читать на русском
 
 - id: read_es
-  translation: Leer en español
+  translation: "Leer en español"
 
 - id: read_zh-cn
   translation: 中文阅读
